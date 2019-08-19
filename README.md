@@ -3,20 +3,20 @@
 
 ## Docs Links
 
-[single node configuration]()
+[single node configuration](https://github.com/akhilrajmailbox/Cassandra-Database/blob/master/cassandra-single-node-configuration.pdf)
 
-[multi node configuration]()
+[multi node configuration](https://github.com/akhilrajmailbox/Cassandra-Database/blob/master/Cassandra-Cluster/cassandra-clusering.pdf)
 
-[cql basics]()
+[cql basics](https://github.com/akhilrajmailbox/Cassandra-Database/blob/master/cql30.pdf)
 
-[quick guide]()
+[quick guide](https://github.com/akhilrajmailbox/Cassandra-Database/blob/master/cassandra_quick_guide.pdf)
 
 
 ## Backup and Import scripts
 
-[Import]()
+[Import](https://raw.githubusercontent.com/akhilrajmailbox/Cassandra-Database/master/scripts/Import_Cassandra.sh)
 
-[backup]()
+[backup](https://raw.githubusercontent.com/akhilrajmailbox/Cassandra-Database/master/scripts/Bakup_Cassandra.sh)
 
 
 
